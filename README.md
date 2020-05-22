@@ -1,8 +1,8 @@
 # SSL Communication between Express and Axios
 
-This repo is a test to make the communication between Express.js and Axios
+This repo is a test to make the secure ssl communication between Express.js and Axios
 
-_CERTIFICATE SHOULD NEVER BE PUSHED ON GIT AND ARE HERE FOR TESTING PURPOSE ONLY_
+*CERTIFICATE SHOULD NEVER BE PUSHED ON GIT AND ARE HERE FOR TESTING PURPOSE ONLY*
 
 ## Building
 
